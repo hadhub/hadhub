@@ -1,4 +1,4 @@
-<h1 align="center">Hello, je suis Hadrien</h1>
+<h1 align="center">Bonjour, je suis Hadrien</h1>
 <h3 align="center">Étudiant passionné d'informatique</h3>
 
 <p align="left">
