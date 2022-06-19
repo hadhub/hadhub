@@ -21,7 +21,7 @@
 <img src="https://media.discordapp.net/attachments/713142876241920000/936599430176575488/1643370025933.png" height="80px">
 
 # 🚩
-<img src="http://www.hackthebox.eu/badge/image/289680" alt="Hack The Box"> 
+ <img src="http://www.hackthebox.eu/badge/image/289680" alt="Hack The Box"> 
  
 
 
