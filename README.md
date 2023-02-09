@@ -10,7 +10,6 @@
 # 👤
 - ‍🎓 IT Student
 - 🚩 CTF Lover
-- 🔌 Discord Server : https://discord.gg/mPKkCAmrWk
 
 
 # 📖
