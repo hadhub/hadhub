@@ -6,8 +6,6 @@
 
 <br>
 
-
-# 👤
 - ‍🎓 IT Student
 - 🚩 CTF Lover
 
