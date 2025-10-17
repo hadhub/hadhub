@@ -1,14 +1,11 @@
-# 📈
+👋 Just a random guy who loves IT and offensive security.
 
-<img align="left" alt="Hadhub Github Stats" src="https://github-readme-stats.vercel.app/api?username=hadhub&show_icons=true&theme=dark" />
+🏆 CPTS (Certified Penetration Testing Specialist)
+🏆 PJPT (Practical Junior Penetration Tester)
 
-<a align="right" href="https://github.com/hadhub/github-readme-stats"><img alt="Had Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadhub&langs_count=9&count_private=true&layout=compact&theme=dark" /></a>
+✅ Dante - Advanced penetration testing lab
+✅ Zephyr - Enterprise network simulation
+✅ POO - Object-oriented exploitation scenarios
+✅ Offshore - Real-world enterprise environment
 
-<br>
-
-- ‍🎓 IT Student
-- 🚩 CTF Lover
-
- 
-
-
+Playing most of the time on HackTheBox & Root-Me
