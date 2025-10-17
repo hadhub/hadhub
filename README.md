@@ -1,11 +1,13 @@
 👋 Just a random guy who loves IT and offensive security.
 
-🏆 CPTS (Certified Penetration Testing Specialist)
-🏆 PJPT (Practical Junior Penetration Tester)
+Playing most of the time on **HackTheBox** & **Root-Me**
 
-✅ Dante - Advanced penetration testing lab
-✅ Zephyr - Enterprise network simulation
-✅ POO - Object-oriented exploitation scenarios
-✅ Offshore - Real-world enterprise environment
+**Certifications** : 
+- 🏆 CPTS (Certified Penetration Testing Specialist)
+- 🏆 PJPT (Practical Junior Penetration Tester)
 
-Playing most of the time on HackTheBox & Root-Me
+**Prolabs** : 
+- Dante
+- Zephyr
+- POO
+- Offshore
