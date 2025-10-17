@@ -2,11 +2,11 @@
 
 Playing most of the time on **HackTheBox** & **Root-Me**
 
-**Certifications** : 
-- 🏆 CPTS (Certified Penetration Testing Specialist)
-- 🏆 PJPT (Practical Junior Penetration Tester)
+🏆 **Certifications** : 
+- CPTS (Certified Penetration Testing Specialist)
+- PJPT (Practical Junior Penetration Tester)
 
-**Prolabs** : 
+🧪 **Prolabs** : 
 - Dante
 - Zephyr
 - POO
